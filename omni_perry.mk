@@ -21,8 +21,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := montana
-PRODUCT_NAME := omni_montana
+PRODUCT_DEVICE := perry
+PRODUCT_NAME := omni_perry
 PRODUCT_BRAND := Motorola
-PRODUCT_MODEL := Moto G5S
+PRODUCT_MODEL := Moto E4
 PRODUCT_MANUFACTURER := Motorola
